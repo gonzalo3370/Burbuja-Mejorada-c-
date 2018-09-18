@@ -1,0 +1,7 @@
+C:\Proyectos\C#\MotodoBurbuja\MotodoBurbuja\obj\Debug\MotodoBurbuja.csprojAssemblyReference.cache
+C:\Proyectos\C#\MotodoBurbuja\MotodoBurbuja\obj\Debug\MotodoBurbuja.csproj.CoreCompileInputs.cache
+C:\Proyectos\C#\MotodoBurbuja\MotodoBurbuja\bin\Debug\MotodoBurbuja.exe.config
+C:\Proyectos\C#\MotodoBurbuja\MotodoBurbuja\bin\Debug\MotodoBurbuja.exe
+C:\Proyectos\C#\MotodoBurbuja\MotodoBurbuja\bin\Debug\MotodoBurbuja.pdb
+C:\Proyectos\C#\MotodoBurbuja\MotodoBurbuja\obj\Debug\MotodoBurbuja.exe
+C:\Proyectos\C#\MotodoBurbuja\MotodoBurbuja\obj\Debug\MotodoBurbuja.pdb
